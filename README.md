@@ -1,4 +1,4 @@
-<img alt="coding" src="https://i.ibb.co.com/WNRV3CC9/Beige-Simple-Furniture-Facebook-Fundraiser-Cover-Photo-1.png">
+<img alt="coding" src="https://i.ibb.co.com/bgsSry6f/Beige-Simple-Furniture-Facebook-Fundraiser-Cover-Photo.png">
 <h1 align="center">Hi 👋, I'm Tonmoy Sarker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
